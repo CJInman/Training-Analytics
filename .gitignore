@@ -1,6 +1,7 @@
 __pycache__/
 data/*csv
 data/*xlsx
+queries/
 analysis_strength.ipynb
 join_tables.ipynb
 create_database.py
