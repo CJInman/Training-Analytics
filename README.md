@@ -16,10 +16,10 @@ This project:
 ## Example Outputs
 
 ### Estimated 1RM Progression
-![e1RM progression](figures/e1rm.png)
+![e1RM progression](./figures/e1rm.png)
 
 ### Weekly Training Volume
-![weekly volume](figures/volume.png)
+![weekly volume](./figures/volume.png)
 ## Tech Stack
 - Python
 - Pandas
